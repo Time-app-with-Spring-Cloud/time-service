@@ -1,2 +1,2 @@
-# time-service
-Microservice that returns the current time
+# Time service
+Simple microservice that returns the current time.
