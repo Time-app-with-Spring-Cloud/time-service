@@ -1,9 +1,8 @@
 package es.pedrogalan.time.service.controller;
 
-import es.pedrogalan.time.service.TimeServiceConfiguration;
+import es.pedrogalan.time.service.config.TimeServiceConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

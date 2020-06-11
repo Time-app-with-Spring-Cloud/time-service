@@ -1,4 +1,4 @@
-package es.pedrogalan.time.service;
+package es.pedrogalan.time.service.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
