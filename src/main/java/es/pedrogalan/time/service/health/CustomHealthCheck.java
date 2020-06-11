@@ -13,7 +13,6 @@ public class CustomHealthCheck implements HealthIndicator {
 
     @Override
     public Health health() {
-        System.out.println("Checking health...");
         return currentHealth.getHealth();
     }
 }
